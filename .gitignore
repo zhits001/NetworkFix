@@ -1,0 +1,12 @@
+# Build artifacts
+dist/
+build/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+
+# Local runtime files (may contain machine-specific info)
+repair_log.txt
+resetlog.txt
